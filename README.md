@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jibe7, student, I code in C and Python but I'll learn Java this year.
+- 👋 Hi, I’m @Jibe7, ENSEA student, I code in C and Python but I'll learn Java this year.
 - 👀 I’m interested in mathematics, computer science, finance
-- 🌱 I’m currently learning electronics, mathematics and computer science at ENSEA (France)
+- 🌱 I’m currently learning mathematics and computer science, electronics and automation in ENSEA (France)
 - 📫 How to reach me : here
