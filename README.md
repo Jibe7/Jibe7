@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jibe7, ENSEA student, I code in C and Python but I'll learn Java this year.
-- 👀 I’m interested in mathematics, computer science, finance
+- 👋 Hi, I’m @Jibe7, ENSEA student, I have some experience in C, Python, Java and I learned C# myself this last scholar year.
+- 👀 I’m interested in mathematics, computer science, new technology but also finance/economics
 - 🌱 I’m currently learning mathematics and computer science, electronics and automation in ENSEA (France)
 - 📫 How to reach me : https://www.linkedin.com/in/jeanbaptistechevrier/
