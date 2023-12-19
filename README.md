@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Jibe7, ENSEA student, I have some experience in C, Python, Java and I learned C# myself this last year for a personnal & school project.
-- 👀 I’m interested in information systems, networks and technology 
-- 📫 How to reach me : https://www.linkedin.com/in/jeanbaptistechevrier/
+- 👋 Hi, I’m Jean-Baptiste Chevrier.
